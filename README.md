@@ -1,5 +1,5 @@
-# Getting and Cleaning Data - Course Project
-
+# Getting and Cleaning Data - Course Project -by Harsh Reddy Gandavarapu
+# week 4 assignment
 This is the course project for the Getting and Cleaning Data Coursera course.
 The R script, `run_analysis.R`, does the following:
 
